@@ -1,16 +1,39 @@
-### Hi there 👋
+# Hola, me llamo **Alberto Olender**
 
-<!--
-**aolender1/aolender1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Me gusta todo lo relacionado al IT, estudio desarrollo web fullstack en **Platzi** y **undefined academy**. Ademas soy un entusiasta bitcoin.
 
-Here are some ideas to get you started:
+### Lenguajes y tecnologias que estoy y quiero profundizar en aprender son:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- Tailwind
+- JavaScript
+- SQL
+- mongoDB
+- Node.js
+- React
+- Next.js
+
+### Comandos de terminal
+
+| Comando | Descripcion                                        |
+| ------- | -------------------------------------------------- |
+| cd      | se utiliza para cambiar de directorio              |
+| ls      | muestra una lista de los archivos en el directorio |
+| clear   | borra todo el contenido escrito en la terminal     |
+| pwd     | me muestra en que directorio estoy actualmente     |
+| mkdir   | se usa para crear un nuevo directorio              |
+| cat     | lee los datos de archivos y muestra sus contenidos |
+| rm -r   | elimina una carpeta y todos sus elementos dentro   |
+
+### Comandos alias
+
+| Comando     | Descripcion                                                         |
+| ----------- | ------------------------------------------------------------------- |
+| ll="ls -al" | lista ficheros y directorios incluidos los ocultos en formato largo |
+| cl="clear"  | limpia la pantalla                                                  |
+
+## Contacto
+
+- [email](aolender1@protonmail.com)
+- [Twitter](https://twitter.com/aolender)
